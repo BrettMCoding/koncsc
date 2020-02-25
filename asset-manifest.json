@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/koncsc/static/css/main.664c9fae.chunk.css",
-    "main.js": "/koncsc/static/js/main.aa684e6a.chunk.js",
-    "main.js.map": "/koncsc/static/js/main.aa684e6a.chunk.js.map",
-    "runtime-main.js": "/koncsc/static/js/runtime-main.a531ac47.js",
-    "runtime-main.js.map": "/koncsc/static/js/runtime-main.a531ac47.js.map",
-    "static/css/2.7aa6f31f.chunk.css": "/koncsc/static/css/2.7aa6f31f.chunk.css",
-    "static/js/2.1805d17b.chunk.js": "/koncsc/static/js/2.1805d17b.chunk.js",
-    "static/js/2.1805d17b.chunk.js.map": "/koncsc/static/js/2.1805d17b.chunk.js.map",
+    "main.css": "/koncsc/static/css/main.449faf59.chunk.css",
+    "main.js": "/koncsc/static/js/main.6e8e640f.chunk.js",
+    "main.js.map": "/koncsc/static/js/main.6e8e640f.chunk.js.map",
+    "runtime-main.js": "/koncsc/static/js/runtime-main.1a1fc49f.js",
+    "runtime-main.js.map": "/koncsc/static/js/runtime-main.1a1fc49f.js.map",
+    "static/css/2.f450d554.chunk.css": "/koncsc/static/css/2.f450d554.chunk.css",
+    "static/js/2.c2e96515.chunk.js": "/koncsc/static/js/2.c2e96515.chunk.js",
+    "static/js/2.c2e96515.chunk.js.map": "/koncsc/static/js/2.c2e96515.chunk.js.map",
     "index.html": "/koncsc/index.html",
-    "precache-manifest.af1798940bbabd454ef9be21c5cdc883.js": "/koncsc/precache-manifest.af1798940bbabd454ef9be21c5cdc883.js",
+    "precache-manifest.b9ddfd1b88358e66d594e013291a34f1.js": "/koncsc/precache-manifest.b9ddfd1b88358e66d594e013291a34f1.js",
     "service-worker.js": "/koncsc/service-worker.js",
-    "static/css/2.7aa6f31f.chunk.css.map": "/koncsc/static/css/2.7aa6f31f.chunk.css.map",
-    "static/css/main.664c9fae.chunk.css.map": "/koncsc/static/css/main.664c9fae.chunk.css.map"
+    "static/css/2.f450d554.chunk.css.map": "/koncsc/static/css/2.f450d554.chunk.css.map",
+    "static/css/main.449faf59.chunk.css.map": "/koncsc/static/css/main.449faf59.chunk.css.map",
+    "static/js/2.c2e96515.chunk.js.LICENSE.txt": "/koncsc/static/js/2.c2e96515.chunk.js.LICENSE.txt",
+    "static/media/default.png": "/koncsc/static/media/default.79216e9e.png",
+    "static/media/ncs_2019.pdf": "/koncsc/static/media/ncs_2019.90c634a1.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a531ac47.js",
-    "static/css/2.7aa6f31f.chunk.css",
-    "static/js/2.1805d17b.chunk.js",
-    "static/css/main.664c9fae.chunk.css",
-    "static/js/main.aa684e6a.chunk.js"
+    "static/js/runtime-main.1a1fc49f.js",
+    "static/css/2.f450d554.chunk.css",
+    "static/js/2.c2e96515.chunk.js",
+    "static/css/main.449faf59.chunk.css",
+    "static/js/main.6e8e640f.chunk.js"
   ]
 }
